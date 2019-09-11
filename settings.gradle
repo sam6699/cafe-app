@@ -1,0 +1,1 @@
+include ':mainview', ':gallery', ':commonview', ':database', ':second_common', ':app', ':poishadow', ':poi', ':excel'

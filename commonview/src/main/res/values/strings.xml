@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hisobot">Hisobot</string>
+    <string name="salat">Salat</string>
+    <string name="ichimlik">Ichimlik</string>
+    <string name="ovqat">Ovqat</string>
+    <string name="osh_markazi">Osh markazi</string>
+    <string name="todo">TODO</string>
+    <string name="shirinlik">shirinlik</string>
+
+    <!-- Strings related to login -->
+</resources>
